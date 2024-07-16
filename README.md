@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 박규용입니다.<br/><br/>
-도메인을 추후 연결.<br/><br/>
+도메인 추후 연결.<br/><br/>
 언제든 편하게 간단한 웹을 제작할 수 있습니다.<br/><br/>
 <br/>
 <br/>
